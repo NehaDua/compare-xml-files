@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.compare.XMLfiles.XMLNumberofTransactionBlocksComparisonCheckTest">
+        <methods>
+          <include name="startTest"/>
+          <include name="afterTest"/>
+          <include name="XMLNumberofTransactionBlocksComparisonCheck"/>
+        </methods>
+      </class> <!-- org.compare.XMLfiles.XMLNumberofTransactionBlocksComparisonCheckTest -->
+      <class name="org.compare.XMLfiles.XMLElementComparisonCheckTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startTest"/>
+          <include name="XMLElementComparisonCheck1"/>
+        </methods>
+      </class> <!-- org.compare.XMLfiles.XMLElementComparisonCheckTest -->
+      <class name="org.compare.XMLfiles.TransactionBlockNodesCheckTest">
+        <methods>
+          <include name="TransactionBlockNodesCheck"/>
+          <include name="startTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- org.compare.XMLfiles.TransactionBlockNodesCheckTest -->
+      <class name="org.compare.XMLfiles.TransactionBlockValuesCheckTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="startTest"/>
+          <include name="TransactionBlockValuesCheck"/>
+        </methods>
+      </class> <!-- org.compare.XMLfiles.TransactionBlockValuesCheckTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

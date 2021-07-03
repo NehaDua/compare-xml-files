@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-03T17:01:04Z" name="Suite" finished-at="2021-07-03T17:01:05Z" duration-ms="796">
+    <groups>
+    </groups>
+    <test started-at="2021-07-03T17:01:04Z" name="Test" finished-at="2021-07-03T17:01:05Z" duration-ms="796">
+      <class name="org.compare.XMLfiles.XMLComparisonTest">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="startTest" finished-at="2021-07-03T17:01:04Z" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="TransactionBlockNodesCheck()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="TransactionBlockNodesCheck" finished-at="2021-07-03T17:01:04Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TransactionBlockNodesCheck -->
+        <test-method signature="TransactionBlockValuesCheck()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="TransactionBlockValuesCheck" finished-at="2021-07-03T17:01:04Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TransactionBlockValuesCheck -->
+        <test-method signature="XMLElementComparisonCheck()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="XMLElementComparisonCheck" finished-at="2021-07-03T17:01:04Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLElementComparisonCheck -->
+        <test-method signature="XMLNumberofTransactionBlocksComparisonCheck()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="XMLNumberofTransactionBlocksComparisonCheck" finished-at="2021-07-03T17:01:04Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XMLNumberofTransactionBlocksComparisonCheck -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:org.compare.XMLfiles.XMLComparisonTest@55cf0d14]" started-at="2021-07-03T17:01:04Z" name="afterTest" finished-at="2021-07-03T17:01:05Z" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.compare.XMLfiles.XMLComparisonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
