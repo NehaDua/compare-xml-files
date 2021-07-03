@@ -2,4 +2,4 @@
 This repo is created to upload code for comparing xml files
 
 
-TestNG has been used to gerenate extend reports
+TestNG has been used to generate extend reports
